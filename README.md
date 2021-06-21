@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jônatas Eleoério
 - 👀 I’m interested in improve my knowledge about backend
 - 🌱 I’m currently learning Reactjs and Nodejs
-- 📫 Contact: http://devjes.com.br/
+- 📫 Contact: jonatas.eleoterio@outlook.com / http://devjes.com.br/
 
 <!---
 Jonatasjes/Jonatasjes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
