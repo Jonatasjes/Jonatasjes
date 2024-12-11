@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jônatas Eleoério
-- 👀 I’m interested in improve my knowledge about backend
-- 🌱 I’m currently learning Reactjs and Nodejs
 - 📫 Contact: jonatas.eleoterio@outlook.com
 
 <!---
